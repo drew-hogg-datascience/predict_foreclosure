@@ -12,7 +12,7 @@ Python version 2.4.14
 Pandas version 0.23.1
 Sklearn version 0.19.1
 
-## Running the code
+## Running the reduction code
 
 To run the reduction script reduce_data.py, first import it
 
@@ -24,6 +24,3 @@ then run the script
 
 It will then produce a file named reduced_data.csv that will be a csv text file.
 
-## Opening the Jupyter notebook
-
-To use the Jupyter notebook, 
